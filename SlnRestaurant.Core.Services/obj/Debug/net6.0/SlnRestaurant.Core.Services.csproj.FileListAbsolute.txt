@@ -1,0 +1,12 @@
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Core.Services\bin\Debug\net6.0\SlnRestaurant.Core.Services.deps.json
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Core.Services\bin\Debug\net6.0\SlnRestaurant.Core.Services.dll
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Core.Services\bin\Debug\net6.0\SlnRestaurant.Core.Services.pdb
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Core.Services\obj\Debug\net6.0\SlnRestaurant.Core.Services.csproj.AssemblyReference.cache
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Core.Services\obj\Debug\net6.0\SlnRestaurant.Core.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Core.Services\obj\Debug\net6.0\SlnRestaurant.Core.Services.AssemblyInfoInputs.cache
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Core.Services\obj\Debug\net6.0\SlnRestaurant.Core.Services.AssemblyInfo.cs
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Core.Services\obj\Debug\net6.0\SlnRestaurant.Core.Services.csproj.CoreCompileInputs.cache
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Core.Services\obj\Debug\net6.0\SlnRestaurant.Core.Services.dll
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Core.Services\obj\Debug\net6.0\refint\SlnRestaurant.Core.Services.dll
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Core.Services\obj\Debug\net6.0\SlnRestaurant.Core.Services.pdb
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Core.Services\obj\Debug\net6.0\ref\SlnRestaurant.Core.Services.dll

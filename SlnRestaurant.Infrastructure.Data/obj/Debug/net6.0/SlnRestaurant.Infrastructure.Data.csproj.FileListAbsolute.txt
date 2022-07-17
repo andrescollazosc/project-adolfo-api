@@ -1,0 +1,15 @@
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Infrastructure.Data\bin\Debug\net6.0\SlnRestaurant.Infrastructure.Data.deps.json
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Infrastructure.Data\bin\Debug\net6.0\SlnRestaurant.Infrastructure.Data.dll
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Infrastructure.Data\bin\Debug\net6.0\SlnRestaurant.Infrastructure.Data.pdb
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Infrastructure.Data\bin\Debug\net6.0\SlnRestaurant.Core.Services.dll
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Infrastructure.Data\bin\Debug\net6.0\SlnRestaurant.Core.Services.pdb
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Infrastructure.Data\obj\Debug\net6.0\SlnRestaurant.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Infrastructure.Data\obj\Debug\net6.0\SlnRestaurant.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Infrastructure.Data\obj\Debug\net6.0\SlnRestaurant.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Infrastructure.Data\obj\Debug\net6.0\SlnRestaurant.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Infrastructure.Data\obj\Debug\net6.0\SlnRestaurant.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Infrastructure.Data\obj\Debug\net6.0\SlnRestaurant.Infrastructure.Data.csproj.CopyComplete
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Infrastructure.Data\obj\Debug\net6.0\SlnRestaurant.Infrastructure.Data.dll
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Infrastructure.Data\obj\Debug\net6.0\refint\SlnRestaurant.Infrastructure.Data.dll
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Infrastructure.Data\obj\Debug\net6.0\SlnRestaurant.Infrastructure.Data.pdb
+C:\Users\acollazos\source\repos\SlnRestaurant\SlnRestaurant.Infrastructure.Data\obj\Debug\net6.0\ref\SlnRestaurant.Infrastructure.Data.dll
